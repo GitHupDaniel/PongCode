@@ -1,1 +1,1 @@
-Play my game: https://githupdaniel.github.io/Pong/
+Play the game here: https://githupdaniel.github.io/Pong/
